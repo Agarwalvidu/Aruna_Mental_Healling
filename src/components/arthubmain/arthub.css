@@ -1,0 +1,38 @@
+video {
+    -webkit-clip-path: url(#clip);
+    clip-path: url(#clip);
+  }
+  svg text {
+    font-family: sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+  .arthub{
+    display: flex;
+  }
+  .arthub .image{
+    height:300px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border-radius: 200px;
+  }
+  .arthub .inner{
+    display: flex;
+    flex-direction: column;
+  }
+  .gradient {
+    background-image: linear-gradient(to right, #1D2CF3, #C5748E, #8E3AAB);
+    -webkit-background-clip: text; 
+    -moz-background-clip: text; 
+    background-clip: text;
+    color: transparent;
+  }
+  @media screen and (max-width: 1024px){
+    
+  }
+  @media screen and (max-width: 768px){
+    .arthub .inner{
+        margin: 0;
+        padding: 0;
+    }
+  }
