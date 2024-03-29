@@ -12,7 +12,7 @@ export const Cards = () =>{
 
 const section = document.createElement('section');
 
-// Array of image URLs
+// Array of image 
 const imageUrls = [
   post1,
   post2,
@@ -24,7 +24,7 @@ const imageUrls = [
   post8
 ];
 
-// Array of food names
+// Array of card titles
 const Titles = [
   'My Battle with Anxiety: A Personal Journey Towards Healing', 
   'Navigating the Depths: A Personal Journey Through Depression', 
