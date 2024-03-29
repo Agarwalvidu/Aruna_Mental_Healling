@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import { Artmain } from "../../components/arthubmain/arthub"
 import { Cards } from "../../components/arthubcards/cards"
-
+import PostList from '../../components/PostList';
+import AddPost from '../../components/AddPost';
 
 export const Arthub = () => {
   useEffect(() => {
@@ -19,7 +20,17 @@ export const Arthub = () => {
 }, []); 
     return (
         <>
+        
           <Artmain />
+          <div className="App">
+      <header className="App-header">
+        <h1>My Blog</h1>
+      </header>
+      <main>
+        <AddPost />
+        <PostList />
+      </main>
+    </div>
           <div id="container"></div>
         </>
       )
