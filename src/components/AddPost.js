@@ -32,9 +32,9 @@ const AddPost = () => {
   return (
     <div className="container">
       <div className="image">
-      <img src={creative} alt='creative' style={{width: '200px'}}></img>
+      <img src={creative} alt='creative'></img>
       </div>
-      <div>
+      <div className='inner'>
       <h2>Share your creativity</h2>
       <form onSubmit={handleSubmit} className="form">
         <div className="form-group">
