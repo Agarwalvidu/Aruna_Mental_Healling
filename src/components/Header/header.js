@@ -1,7 +1,6 @@
-import React, { useContext } from "react"
 import logo from "../../assets/images/logo.png"
 import "./header.css"
-// import { Link } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 export const Header = () => {
   return (
@@ -16,8 +15,8 @@ export const Header = () => {
             <ul>
             <li>Home</li>
             <li>Wellness</li>
-            <li>ArtHub</li>
-            <li>Track Progress</li>
+            <li><Link to="/arthub">ArtHub</Link></li>
+            <li><Link to="/tracker">Track Progress</Link></li>
             </ul>
           </nav>
         </div>

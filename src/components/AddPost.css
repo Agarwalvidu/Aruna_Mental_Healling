@@ -1,5 +1,5 @@
 .container {
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -37,15 +37,12 @@
   
   .btn {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #70C0CF;
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 24px;
     cursor: pointer;
-  }
-  
-  .btn-primary {
-    background-color: #007bff;
+    margin-left: 0;
   }
   
   .btn-primary:hover {

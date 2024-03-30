@@ -49,7 +49,7 @@ const AddPost = () => {
           <label>Image:</label>
           <input type="file" onChange={(e) => setImage(e.target.files[0])} className="form-control-file" />
         </div>
-        <button type="submit" className="btn btn-primary">Submit</button>
+        <button type="submit" className="btn btn-primary" >Submit</button>
       </form>
       </div>
     </div>

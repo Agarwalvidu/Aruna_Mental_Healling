@@ -3,6 +3,12 @@ import art from "../../assets/images/art.png"
 import file from "../../assets/images/file.mp4"
 
 export const Artmain = () => {
+    const scrollToBottom = () => {
+        window.scrollTo({
+            top: document.documentElement.scrollHeight,
+            behavior: 'smooth'
+        });
+    };
     return (
         <>
             <div className='arthub'>
@@ -11,7 +17,7 @@ export const Artmain = () => {
                         <svg style={{ opacity: 0, position: 'fixed', zIndex: -999 }} viewBox="0 0 1 1">
                             <defs>
                                 <clipPath id="clip" clipPathUnits="objectBoundingBox">
-                                    <text x="0.5" y="0.4" fontSize="0.085" textAnchor="middle" alignmentBaseline="middle">ART THERAPY</text>
+                                    <text x="0.5" y="0.4" fontSize="0.15" textAnchor="middle" alignmentBaseline="middle" fontFamily="Roboto">ART THERAPY</text>
                                 </clipPath>
                             </defs>
                         </svg>
@@ -23,6 +29,10 @@ export const Artmain = () => {
                     </section>
                     <div className="gradient-text">
                         <span className="gradient">An Artistic approach towards Mental Wellness</span>
+                    </div>
+                    <div className="button-check">
+                    <button type="submit" className="btn btn-primary" onClick={scrollToBottom}>Create your Post</button>
+
                     </div>
                 </div>
                 <img className="image" src={art} alt="art" />
