@@ -16,7 +16,7 @@ const AddPost = () => {
       formData.append('content', content);
       formData.append('image', image);
 
-      await axios.post('http://localhost:5000/api/posts', formData, {
+      await axios.post('https://arunabackend-s3r3.onrender.com/api/posts', formData, {
         headers: {
           'Content-Type': 'multipart/form-data' 
         }

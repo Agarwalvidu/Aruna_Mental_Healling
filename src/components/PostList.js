@@ -7,7 +7,7 @@ const Cards = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/posts');
+        const response = await axios.get('https://arunabackend-s3r3.onrender.com/api/posts');
         setPosts(response.data.map(post => ({ ...post, showFullContent: false })));
       } catch (error) {
         console.error('Error fetching posts:', error);
@@ -36,7 +36,7 @@ const Cards = () => {
       {posts.map((post, index) => (
         <div key={index} className="card">
           <figure className="card-img">
-            {post.imageUrl && <img src={`http://localhost:5000/${post.imageUrl.replace(/\\/g, '/')}`} alt="Post" />}
+            {post.imageUrl && <img src={`https://arunabackend-s3r3.onrender.com/${post.imageUrl.replace(/\\/g, '/')}`} alt="Post" />}
             <figcaption>Anonymous</figcaption>
           </figure>
           <div className="card-body">
