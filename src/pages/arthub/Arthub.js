@@ -23,15 +23,12 @@ export const Arthub = () => {
         
           <Artmain />
           <div className="App">
-      <header className="App-header">
-        <h1>My Blog</h1>
-      </header>
       <main>
         <AddPost />
         <PostList />
       </main>
     </div>
-          <div id="container"></div>
+          {/* <div id="container"></div> */}
         </>
       )
 }
