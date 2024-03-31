@@ -2,8 +2,9 @@
 
 Aruna is a app that nurtures ancient Indian wellness habits like yoga, meditation, healthy and natural eating, by encouraging users to make incorporate these in their daily routines in form of micro-habits🌟 
 
-![Screenshot_2024-03-30_180827-removebg-preview](https://github.com/Agarwalvidu/Aruna_Mental_Healling/assets/122363068/aa13fb96-5cc8-4cbc-84bc-a209b7da7250)
-
+<p align="center">
+  <img src="https://github.com/Agarwalvidu/Aruna_Mental_Healling/assets/122363068/aa13fb96-5cc8-4cbc-84bc-a209b7da7250" alt="Screenshot" width="300">
+</p>
 The Wellness feature of Aruna, provides resources on meditation, yoga flows, and natural and healthy recipes, additionaly, it also has sections like gratitude journal and positive reading🥗
 
 In today's age of social media, millenials are always living under the pressure to overachieve and overperform, which makes them forget about the true essence of a simple and healthy life, Aruna not only aims to promote wellness, but also encouarges users to express themselves in any art form that makes them feel heard and seen, and make people rise above meaningless scrolling and engage in creative and resourceful activities🎨
