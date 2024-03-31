@@ -54,11 +54,11 @@ header {
       }
       .pages nav ul li {
         display: inline-block;
-        margin-right: 6px;
-        margin-left: 6px; 
+        margin-right: 5px;
+        margin-left: 5px; 
         font-weight: bolder;
         color: #BADA55;
-        font-size: 15px;
+        font-size: 13px;
       }
   }
  
