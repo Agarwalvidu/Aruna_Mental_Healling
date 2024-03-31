@@ -8,7 +8,8 @@ The Wellness feature of Aruna, provides resources on meditation, yoga flows, and
 
 In today's age of social media, millenials are always living under the pressure to overachieve and overperform, which makes them forget about the true essence of a simple and healthy life, Aruna not only aims to promote wellness, but also encouarges users to express themselves in any art form that makes them feel heard and seen, and make people rise above meaningless scrolling and engage in creative and resourceful activities🎨
 
-Aruna also has a track progress feature that enables users to keep a check on their wellness activities like: Yoga, Meditattion, Mindful Eating, and Creative Activities, on a calendar, and dosplays on a progress bar🗓️
+Aruna also has a track progress feature that enables users to keep a check on their wellness activities like: Yoga, Meditattion, Mindful Eating, and Creative Activities, on a calendar, and displays on a progress bar🗓️
+
 
 ![Screenshot 2024-03-30 194655](https://github.com/Agarwalvidu/Aruna_Mental_Healling/assets/122363068/60f3686f-5fa0-4063-b99a-5b52b006feb1)
 
