@@ -1,4 +1,23 @@
-# Aruna: 
+# 🪷ARUNA: Artistic Resources for Unwinding and Nurturing Ayurveda 
+
+Aruna is a app that nurtures ancient Indian wellness habits like yoga, meditation, healthy and natural eating, by encouraging users to make incorporate these in their daily routines in form of micro-habits🌟 
+
+![Screenshot_2024-03-30_180827-removebg-preview](https://github.com/Agarwalvidu/Aruna_Mental_Healling/assets/122363068/aa13fb96-5cc8-4cbc-84bc-a209b7da7250)
+
+The Wellness feature of Aruna, provides resources on meditation, yoga flows, and natural and healthy recipes, additionaly, it also has sections like gratitude journal and positive reading🥗
+
+In today's age of social media, millenials are always living under the pressure to overachieve and overperform, which makes them forget about the true essence of a simple and healthy life, Aruna not only aims to promote wellness, but also encouarges users to express themselves in any art form that makes them feel heard and seen, and make people rise above meaningless scrolling and engage in creative and resourceful activities🎨
+
+Aruna also has a track progress feature that enables users to keep a check on their wellness activities like: Yoga, Meditattion, Mindful Eating, and Creative Activities, on a calendar, and dosplays on a progress bar🗓️
+
+![Screenshot 2024-03-30 194655](https://github.com/Agarwalvidu/Aruna_Mental_Healling/assets/122363068/60f3686f-5fa0-4063-b99a-5b52b006feb1)
+
+# 🔗Links:
+Slide Deck: https://www.canva.com/design/DAGA-w6n44c/5CKpq6JlpdJMgm7CCidVuw/view?utm_content=DAGA-w6n44c&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Prototype: https://reettavleen2.editorx.io/aruna/blank
+Deployed App: https://arunamentalwellness.netlify.app/arthub
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,33 +57,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
